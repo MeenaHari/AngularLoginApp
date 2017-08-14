@@ -1,7 +1,8 @@
 
 Prerequisites to run the test:
 
-NodeJS should be installed and append running.
+NodeJS and "AngularJS User Registration and Login Example"App should be installed and append running in the system.
+Application will be running on  address http://localhost:8080
 Protractor should be installed in the system.
 Eclipse IDE 
 Download Tern Eclipse IDE 1.2.0 to make the protractor work in eclipse and configure it.
