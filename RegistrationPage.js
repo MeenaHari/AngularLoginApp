@@ -17,7 +17,7 @@
                     // click Register link
                     element(by.linkText("Register")).click();
                    
-         			 browser.sleep(3000);
+         			// browser.sleep(3000);
          			
          			 //verify the heading Register
                      element(by.xpath("/html/body/div[1]/div/div/div/div/h2")).getText().then(function(text){       
