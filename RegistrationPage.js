@@ -10,7 +10,7 @@
                    
                          });
                 }); 
-                //Steps to register cancel the registration
+                //Steps to register 
                it("register",function(){
                     browser.get("http://localhost:8080/#!/login");
                    
