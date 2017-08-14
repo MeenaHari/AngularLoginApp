@@ -20,7 +20,7 @@
 		 });
 		 //enter User name
 		 element(by.model("vm.username")).sendKeys("Meenakshi");	
-		 browser.sleep(3000);
+		// browser.sleep(3000);
 
 		 // enter password
 		 element(by.model("vm.password")).sendKeys("Meenakshi");	
